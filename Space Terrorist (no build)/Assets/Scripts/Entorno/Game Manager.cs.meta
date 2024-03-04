@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09ddbcf7c591fb9478e994537221cb73
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vidasText: {instanceID: 0}
+  - puntosText: {instanceID: 0}
+  - playerScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
