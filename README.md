@@ -16,7 +16,7 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
   - **Disparo triple**: Aumenta la potencia de ataque.
   - **Vida extra**: Gana una vida adicional.
 
-![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/spaceterrorist.png)
+![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](./img/spaceterrorist.png)
 
 ---
 
@@ -33,7 +33,7 @@ Bienvenido al repositorio de mis juegos desarrollados en **Unity** usando **C#**
   - **Bomba**: Elimina a todos los enemigos en pantalla al activarse.
   - **Disparo**: Dispara una bala naranja de forma automatica cuando estas a cierta distancia del enemigo.
 
-![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/formwarfare.png)
+![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](./img/formwarfare.png)
 
 #### CONTRIBUYENTES DEL PROYECTO
 El el perfil del **PRINCIPAL** creador del juego se puede ver el verdadero repositorio del proyecto.
@@ -52,14 +52,14 @@ Link al verdadero repositorio del proyecto:
 
 - Inspirado en Geometry Dash.
 
-![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/dashsurvivor.png)
+![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](./img/dashsurvivor.png)
 
 ---
 
 ## Tecnologías utilizadas
 
-![C# logo](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png)
-![Unity logo](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png)
+![C# logo](./img/c-sharp.png)
+![Unity logo](./img/unity.png)
 
 ## 💾 Cómo Descargar los Juegos desde GitHub
 
